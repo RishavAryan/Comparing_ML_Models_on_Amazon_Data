@@ -25,3 +25,6 @@ estimator, features. Etc That is why the result of random forest is better than 
 But it has limitations, on quick prediction of data, because random forest takes a lot of time to 
 run the model. So on real time and quick prediction it cant be used.
 
+# Dataset
+Kaggle,” Amazon Reviews Unlocked Mobile Phones”, online, Available:
+https://www.kaggle.com/datasets/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones.
