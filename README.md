@@ -1,5 +1,4 @@
-# Comparing_ML_Models_on_Amazon_Data
-Reviewing Data and Performance Analysis of Various  Machine Learning Models on Amazon Review Data-Sets
+# Reviewing Data and Performance Analysis of Various  Machine Learning Models on Amazon Review Data-Sets
 
 The goal of this project is to analyse the Amazon food review data to understand customer 
 behaviour. On analysing data, the query arises on customer behaviour on products. Like, is 
@@ -8,7 +7,7 @@ has done every possible analysis of the data. This paper has also run the three 
 to understand which model will be best for predicting the rating based on comments
 
 
-CONCLUSION
+# CONCLUSION
 
 The Graph analysis and table analysis clearly show that the customer is interested in Apple
 products because most review is given on Apple products which are around 807. It also 
